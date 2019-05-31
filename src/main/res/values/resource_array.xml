@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
+
+    <string-array name="age">
+        <item>@string/not_adult</item>
+        <item>@string/twenty</item>
+        <item>@string/thirty</item>
+        <item>@string/forty</item>
+        <item>@string/fifty</item>
+        <item>@string/over_sixty</item>
+    </string-array>
+</resources>

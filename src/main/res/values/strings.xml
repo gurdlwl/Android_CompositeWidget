@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Composite Widget</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="not_adult">미성년</string>
+    <string name="twenty">20대</string>
+    <string name="thirty">30대</string>
+    <string name="forty">40대</string>
+    <string name="fifty">50대</string>
+    <string name="over_sixty">60대 이상</string>
+</resources>
